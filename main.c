@@ -6,7 +6,7 @@
 #include<stdio.h>    
 int main()    
 {
-  printf("Hello, World"\n");
+  printf("Hello, World\n");
   printf("First Line\nSecond Line\n");
   printf("권용일\t23\t증평\n");
   
